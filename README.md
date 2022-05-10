@@ -1,5 +1,12 @@
 # Python-Worm
 
+  Created a worm malware in python. 
+  
+  Used GNS3 as tool to control virtual environment that infect other computers on the same network.
+
+  Once executed, worm run SSH service to break into system using dictionary attack and spread itself and create infected.txt file.
+
+
 # Group Members 
 
 Shreeji Khalasi
